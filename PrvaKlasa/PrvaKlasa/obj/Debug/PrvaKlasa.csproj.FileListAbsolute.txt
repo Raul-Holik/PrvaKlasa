@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\bin\Debug\PrvaKlasa.exe.config
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\bin\Debug\PrvaKlasa.exe
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\bin\Debug\PrvaKlasa.pdb
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\obj\Debug\PrvaKlasa.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\obj\Debug\PrvaKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\obj\Debug\PrvaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\obj\Debug\PrvaKlasa.exe
+C:\Users\Osoba\Documents\Skola\PrvaKlasa\PrvaKlasa\obj\Debug\PrvaKlasa.pdb
